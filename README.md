@@ -129,27 +129,18 @@ print("reg no:212224240077")
 
   ## Output:
 ### Basic info about dataset:
-
 <img width="833" height="740" alt="image" src="https://github.com/user-attachments/assets/81fb563d-b08e-445d-adad-ad27d1ff3ac7" />
 
-
 ### Matches per season:
-
 <img width="924" height="835" alt="image" src="https://github.com/user-attachments/assets/f458ae29-6b40-4594-8c87-ec9c4a2180eb" />
 
-
 ###  Most successful teams:
-
 <img width="873" height="829" alt="image" src="https://github.com/user-attachments/assets/326c953c-ce25-4f99-b459-33a39d312025" />
 
-
 ###  Toss decisions (bat vs field)
-
 <img width="925" height="752" alt="image" src="https://github.com/user-attachments/assets/6d994831-8036-412e-9cfc-88ffa6d8faaa" />
 
-
 ### Venues hosting most matches:
-
 <img width="928" height="821" alt="image" src="https://github.com/user-attachments/assets/fcf9f73e-bf51-49a6-a57a-3a0afe71e574" />
 
 
